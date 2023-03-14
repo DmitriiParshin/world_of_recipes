@@ -1,4 +1,4 @@
-# World_of_recipes -  это ресурс для публикации рецептов.  
+# World_of_recipes - это ресурс для публикации рецептов
 ## Стек технологий
 [![Python](https://img.shields.io/badge/-Python-464646?style=flat-square&logo=Python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-464646?style=flat-square&logo=Django)](https://www.djangoproject.com/)
@@ -11,16 +11,6 @@
 [![Yandex.Cloud](https://img.shields.io/badge/-Yandex.Cloud-464646?style=flat-square&logo=Yandex.Cloud)](https://cloud.yandex.ru/)
 ## Описание проекта
 Пользователи могут создавать свои рецепты, читать рецепты других пользователей, подписываться на интересных авторов, добавлять лучшие рецепты в избранное, а также создавать список покупок и загружать его в pdf формате
-## Список рецептов 
-![Recipes](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/recipes.png)
-## Подписки на авторов
-![Subscription](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/subscription.png)
-## Создание рецепта
-![Create_recipe](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/create_recipe.png)
-## Избранные рецепты
-![Favorite](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/favorite.png)
-## Список покупок
-![Shopping_cart](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/shopping_cart.png)
 _______________________________________________________________________________
 ## Запуск проекта
 1. Клонируйте репозиторий с проектом и перейдите в каталог с ним:
@@ -63,3 +53,14 @@ sudo docker-compose exec backend python manage.py createsuperuser
 _______________________________________________________________________________
 ## Автор
 [Паршин Дмитрий](https://github.com/DmitriiParshin)
+_______________________________________________________________________________
+## Список рецептов 
+![Recipes](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/recipes.png)
+## Подписки на авторов
+![Subscription](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/subscription.png)
+## Создание рецепта
+![Create_recipe](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/create_recipe.png)
+## Избранные рецепты
+![Favorite](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/favorite.png)
+## Список покупок
+![Shopping_cart](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/shopping_cart.png)
