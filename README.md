@@ -52,7 +52,8 @@ sudo docker-compose exec backend python manage.py createsuperuser
 Перейдите на http://localhost/ и авторизуйтесь
 _______________________________________________________________________________
 ## Автор
-[Паршин Дмитрий](https://github.com/DmitriiParshin)
+[Паршин Дмитрий](https://github.com/DmitriiParshin) - разработал бэкенд и деплой для сервиса
+[Яндекс.Практикум](https://github.com/yandex-praktikum) - предоставил фронтенд для сервиса
 _______________________________________________________________________________
 ## Список рецептов 
 ![Recipes](https://github.com/DmitriiParshin/world_of_recipes/raw/master/image/recipes.png)
